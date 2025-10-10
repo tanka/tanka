@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Backend Developer:</b>
-  - [Java, Spring Boot, Spring Security with JWT-based authentication, role-based access control, comprehensive RESTful APIs and with features such as pagination, sorting, and input validation]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/tanka/Java-SpringBoot-Ecom-Project))
+  - [Java, Spring Boot, Spring Security with JWT-based authentication, role-based access control, comprehensive RESTful APIs and with features such as pagination, sorting, and input validation](https://github.com/tanka/Java-SpringBoot-Ecom-Project)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
