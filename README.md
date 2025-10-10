@@ -6,7 +6,7 @@
   - [Java, Spring Boot, Spring Security with JWT-based authentication, role-based access control, comprehensive RESTful APIs and with features such as pagination, sorting, and input validation](https://github.com/tanka/Java-SpringBoot-Ecom-Project)
     
 - <b>Full Stack Web App (React, NodeJS, MongoDB)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Web application to book appointement for Saloon](https://pthsalon.com)
 
 - <b>C#, .NET Applications</b>
   - [Custom Numberic Up Down button for WPF](https://github.com/tanka/WPF-Numeric-Up-Down)
