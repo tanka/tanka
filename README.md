@@ -14,15 +14,10 @@
 - <b>ESP-32, C++</b>
   - [Microcontroller program with custom library for ESP-32 to collect sensor data communicate to raspberrypi server over MQTT protocol](https://github.com/tanka/little-farm/tree/main)
  
-  - - <b>Android Application</b>
+- <b>Android Application</b>
+    - [To monitor and control the greenhouse controller](https://github.com/tanka/androidForLittleFarm)
+ 
 
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
