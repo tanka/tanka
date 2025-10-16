@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tanka! <br/><a href="https://github.com/tanka">Web Developer</a>
+<h1>Hi, I'm Tanka! <br/><a href="https://github.com/tanka">Web Developer</a> <a href="https://www.linkedin.com/in/tnsharma/"> LinkedIn</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
