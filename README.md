@@ -1,4 +1,6 @@
-<h1>Hi, I'm Tanka! <br/><a href="https://github.com/tanka">Web Developer</a> </h1>
+<h1>Hi, I'm Tanka! <br/><a href="https://github.com/tanka">Web Developer</a> </h1>  
+
+<b>Connect with me</b> <a href="https://www.linkedin.com/in/tnsharma/"> LinkedIn</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -16,5 +18,5 @@
   - [Microcontroller program with custom library for ESP-32 (C++) to collect sensor data from the greenhouse, communicate to Raspberry Pi server over MQTT protocol](https://github.com/tanka/little-farm/tree/main)
   - [Android Application To monitor and control the greenhouse controller](https://github.com/tanka/androidForLittleFarm)
  
-<b>Connect with me</b> <a href="https://www.linkedin.com/in/tnsharma/"> LinkedIn</a>
+
 
