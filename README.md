@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tanka! <br/><a href="https://github.com/tanka">Web Developer</a> </h1>  
 
-<b>Connect with me</b> <a href="https://www.linkedin.com/in/tnsharma/"> LinkedIn</a>
+<b>Connect with me on :</b> <a href="https://www.linkedin.com/in/tnsharma/"> LinkedIn</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
